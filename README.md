@@ -30,6 +30,6 @@ The key steps of backpropagation include:
 
 4. Parameter Update: Update the model parameters using an optimization algorithm (e.g., gradient descent).
 
-## Acknowledgments
+## References
 - [Building a neural network FROM SCRATCH](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 - [Neural Network from Scratch](https://www.youtube.com/watch?v=pauPCy_s0Ok)
