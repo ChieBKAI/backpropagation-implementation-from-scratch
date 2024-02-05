@@ -30,6 +30,8 @@ The key steps of backpropagation include:
 
 4. Parameter Update: Update the model parameters using an optimization algorithm (e.g., gradient descent).
 
+![Backpropagation visualization](https://developer-blogs.nvidia.com/wp-content/uploads/2022/02/DS-Guide-to-Gradient-Descent_Pic5.gif)
+
 ## References
 - [Building a neural network FROM SCRATCH](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 - [Neural Network from Scratch](https://www.youtube.com/watch?v=pauPCy_s0Ok)
