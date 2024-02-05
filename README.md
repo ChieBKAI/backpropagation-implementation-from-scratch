@@ -12,10 +12,10 @@ Backpropagation is a key algorithm in training neural networks. This implementat
 ## Getting Started
 Clone the repository:
 
-'''bash
+```bash
 git clone https://github.com/ChieBKAI/backpropagation-implementation-from-scratch.git
 cd backpropagation-mnist
-'''
+```
 
 ## Backpropagation Overview
 Backpropagation is a supervised learning algorithm used for training artificial neural networks. It involves computing gradients of the loss with respect to the model parameters, allowing for parameter updates through gradient descent.
