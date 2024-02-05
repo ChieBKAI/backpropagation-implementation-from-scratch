@@ -21,13 +21,14 @@ cd backpropagation-mnist
 Backpropagation is a supervised learning algorithm used for training artificial neural networks. It involves computing gradients of the loss with respect to the model parameters, allowing for parameter updates through gradient descent.
 
 The key steps of backpropagation include:
-1.Forward Pass: Compute the predicted output by propagating input through the neural network.
 
-2.Loss Calculation: Compute the loss between the predicted output and the ground truth.
+1. Forward Pass: Compute the predicted output by propagating input through the neural network.
 
-3.Backward Pass (Backpropagation): Compute gradients of the loss with respect to the model parameters using the chain rule.
+2. Loss Calculation: Compute the loss between the predicted output and the ground truth.
 
-4.Parameter Update: Update the model parameters using an optimization algorithm (e.g., gradient descent).
+3. Backward Pass (Backpropagation): Compute gradients of the loss with respect to the model parameters using the chain rule.
+
+4. Parameter Update: Update the model parameters using an optimization algorithm (e.g., gradient descent).
 
 ## Acknowledgments
 - [Building a neural network FROM SCRATCH](https://www.youtube.com/watch?v=w8yWXqWQYmU)
