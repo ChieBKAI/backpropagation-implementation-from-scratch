@@ -34,7 +34,8 @@ cd backpropagation-mnist
 ```
 
 ## Usage
-Open file *trained_model.ipynb*, change *index* variable to the number that you want, then run the codes.
+Open file *trained_model.ipynb*, change *index* variable to the number that you want, then run the codes:
+
 ![](https://i.imgur.com/MMpBrDZ.png)
 
 ## References
